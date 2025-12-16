@@ -1,4 +1,4 @@
-# 🧹 SQL Data Cleaning Project
+#  SQL Data Cleaning Project
 
 This repository demonstrates a real-world **SQL data cleaning workflow** on a raw dataset of layoffs. The goal is to transform messy, inconsistent raw data into a **clean and analysis-ready dataset** using SQL techniques.
 
